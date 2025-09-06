@@ -1,15 +1,13 @@
 .codigo {
-    background: #57855D;
-    color: #32D948
+    background-color: aqua;
+    color: green
 }
 .design {
-    color: #D9D532
+    color: rebeccapurple
 }
-h1{
-    background-color: #D93238;
-    color: #594142
+.test {
+    color: blue
 }
-a {
-    background-color: #329CD9;
-    color: #384F5C
+.underline {
+    text-decoration: underline;
 }
