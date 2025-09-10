@@ -1,12 +1,19 @@
+body {
+    margin: 30px;
+    font-family: Arial;
+}
+
 div {
     background: #111;
-    width: 600px;
-    height: 160px;
     padding: 20px;
-    font-family: Arial;
     border: 1px solid;
     border-radius: 4px;
     margin: 50px;
+}
+
+.titulo {
+    color: black;
+    text-align: center;
 }
 
 h1 {
@@ -28,4 +35,7 @@ p {
     border: 1px;
     color: #332200;
     border-radius: 4px;
+}
+.botao:hover{
+    background: #d4a006;
 }
